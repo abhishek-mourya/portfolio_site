@@ -194,7 +194,9 @@ img{
 }
 .home__title{
   font-size: var(--big-font-size);
-  margin-bottom: var(--mb-5);
+  margin-bottom: 1px;
+  line-height: 70px;
+  padding-bottom: 2px;
 }
 .home__title-color{
   color: var(--first-color);
@@ -206,9 +208,10 @@ img{
 .home__social-icon{
   width: max-content;
   margin-bottom: var(--mb-2);
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: var(--second-color);
 }
+
 .home__social-icon:hover{
   color: var(--first-color);
 }
@@ -219,7 +222,9 @@ img{
   width: 295px;
 }
 .meme{
-  font-size: medium;
+  font-size: 25px;
+  margin-bottom: 1px;
+  line-height: 0px;
 }
 
 /*BUTTONS*/

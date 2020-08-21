@@ -359,14 +359,15 @@ img{
 }
 .footer__title{
   font-size: 2rem;
-  margin-bottom: var(--mb-4);
+  margin-bottom: 10px;
   text-align: center;
 }
 .footer__social{
   width: 100%;
   height: auto;
   margin: auto;
-  margin-bottom: var(--mb-4);
+  margin-bottom: 10px;
+  padding-bottom: 2px;
 }
 .footer__social ul{
   margin: 0px;
